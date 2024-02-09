@@ -1,3 +1,10 @@
+Added a GUI QT : 
+
+<img src="https://github.com/zebulon75018/yolov7-face-blur/blob/master/image.png"/>
+
+
+
+
 <img src="https://pjreddie.com/media/image/yologo_2.png" width="100"/>
 
 <img src="https://img.shields.io/badge/python-3.9.0-blue.svg"> <img src="https://img.shields.io/badge/license-MIT-blue.svg">
